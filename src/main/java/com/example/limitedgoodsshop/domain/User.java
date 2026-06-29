@@ -1,3 +1,4 @@
+// 회원 정보
 package com.example.limitedgoodsshop.domain;
 
 import lombok.Getter;

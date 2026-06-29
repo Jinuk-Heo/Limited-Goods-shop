@@ -1,3 +1,4 @@
+// 상품 및 재고 정보
 package com.example.limitedgoodsshop.domain;
 
 import lombok.Getter;

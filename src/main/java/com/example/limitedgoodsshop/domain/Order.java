@@ -1,3 +1,5 @@
+// 주문 정보
+// domain = 설계도 - 데이터 정의
 package com.example.limitedgoodsshop.domain;
 
 import lombok.Getter;
